@@ -1,0 +1,6 @@
+{
+  "name": "The Chronicle — Premium WordPress News Blog",
+  "description": "A polished editorial blog and magazine-style WordPress news demo featuring high-traffic architecture storytelling, a premium publishing layout, MySQL-style data modeling, cache telemetry, and a modern responsive interface for digital media brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
